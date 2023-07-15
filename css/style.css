@@ -1,0 +1,22 @@
+#home{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#home h1{
+    font-weight: 600;
+    font-size: 80px;
+}
+
+#home p{
+    font-weight: 200;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.594);
+}
+
+#home h3{
+    font-size: 30px;
+}
+
+#home button{
+    color: #fff;
+}
